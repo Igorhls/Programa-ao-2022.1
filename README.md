@@ -1,2 +1,2 @@
 # Programção
-Codígos desenvolvidos durante a materia Programção de Computadores 2022.1
+Codígos desenvolvidos durante a materia Programação de Computadores 2022.1
